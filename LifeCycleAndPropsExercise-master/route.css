@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.header{
+    display: inline-block;
+    padding: 20px;
+    background-color: lightskyblue;
+    text-decoration: none;
+    list-style: none;
+    width:100%;
+
+}
+.homeli{
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+    list-style: none;
+    width:100%;
+}
+.text{
+    background-color:white
+}
+input{
+    background-color: darkblue;
+    padding: 5px;
+    margin: 10px;
+    color:white;
+}
+label{
+    color: darkblue;
+    font-size: 20px;
+    margin: 20px;
+}
+h1,h2{
+    color: darkblue;
+}
